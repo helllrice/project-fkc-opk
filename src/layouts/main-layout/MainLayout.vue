@@ -131,14 +131,17 @@
 
         <!-- button -->
 
-        <button
-          type="button"
-          class="btn btn-primary m-5"
-          data-bs-toggle="modal"
-          data-bs-target="#kt_modal_1"
-        >
-          Добавить данные в таблицу
-        </button>
+
+        <div class="table-btn">
+          <button
+            type="button"
+            class="btn btn-primary m-3"
+            data-bs-toggle="modal"
+            data-bs-target="#kt_modal_1"
+          >
+            Добавить данные в таблицу
+          </button>
+        </div>
 
         <div class="modal fade" tabindex="-1" id="kt_modal_1">
           <div class="modal-dialog">

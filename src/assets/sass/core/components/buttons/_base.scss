@@ -77,6 +77,11 @@
 	display: inline-block;
 }
 
+.table-btn {
+	display: flex;
+	justify-content: flex-start;
+}
+
 // Reset
 .btn-reset {
 	background-color: transparent;
@@ -86,6 +91,18 @@
 	outline: none;
 }
 
+// Table
+
+.table-container {
+	min-width: 100%;
+	display: inline-block;
+}
+
+@media screen and (max-width: 600px) {
+	.table-container {
+		overflow-y: scroll;
+	}
+}
 // Icons
 .btn {
 	// Font icon
