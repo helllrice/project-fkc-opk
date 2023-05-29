@@ -31,9 +31,7 @@
               v-else-if="asideMenuIcons === 'svg'"
               class="svg-icon svg-icon-2"
             >
-              <inline-svg
-                :src="getAssetPath('media/icons/duotune/general/gen005.svg')"
-              />
+            <i class="fa-solid fa-house"></i>
             </span>
           </span>
           <span class="menu-title"
@@ -42,7 +40,7 @@
         </a>
         <a
           class="menu-link"
-          href="https://preview.keenthemes.com/metronic8/vue/docs/#/changelog"
+          href="#"
         >
           <span class="menu-icon">
             <i
@@ -53,9 +51,7 @@
               v-else-if="asideMenuIcons === 'svg'"
               class="svg-icon svg-icon-2"
             >
-              <inline-svg
-                :src="getAssetPath('media/icons/duotune/general/gen005.svg')"
-              />
+            <i class="fa-solid fa-square-poll-horizontal"></i>
             </span>
           </span>
           <span class="menu-title"
@@ -64,7 +60,7 @@
         </a>
         <a
           class="menu-link"
-          href="https://preview.keenthemes.com/metronic8/vue/docs/#/changelog"
+          href="#"
         >
           <span class="menu-icon">
             <i
@@ -86,7 +82,7 @@
         </a>
         <a
           class="menu-link"
-          href="https://preview.keenthemes.com/metronic8/vue/docs/#/changelog"
+          href="#"
         >
           <span class="menu-icon">
             <i
@@ -108,7 +104,7 @@
         </a>
         <a
           class="menu-link"
-          href="https://preview.keenthemes.com/metronic8/vue/docs/#/changelog"
+          href="#"
         >
           <span class="menu-icon">
             <i
@@ -130,7 +126,7 @@
         </a>
         <a
           class="menu-link"
-          href="https://preview.keenthemes.com/metronic8/vue/docs/#/changelog"
+          href="#"
         >
           <span class="menu-icon">
             <i
@@ -146,13 +142,13 @@
               />
             </span>
           </span>
-          <span class="menu-title"
+          <span class="menu-title  menu-sub-accordion"
           >{{ translate("Субьекты") }}
           </span>
         </a>
         <a
           class="menu-link"
-          href="https://preview.keenthemes.com/metronic8/vue/docs/#/changelog"
+          href="#"
         >
           <span class="menu-icon">
             <i
@@ -174,7 +170,7 @@
         </a>
         <a
           class="menu-link"
-          href="https://preview.keenthemes.com/metronic8/vue/docs/#/changelog"
+          href="#"
         >
           <span class="menu-icon">
             <i
@@ -196,7 +192,7 @@
         </a>
         <a
           class="menu-link"
-          href="https://preview.keenthemes.com/metronic8/vue/docs/#/changelog"
+          href="#"
         >
           <span class="menu-icon">
             <i
@@ -218,7 +214,7 @@
         </a>
         <a
           class="menu-link"
-          href="https://preview.keenthemes.com/metronic8/vue/docs/#/changelog"
+          href="#"
         >
           <span class="menu-icon">
             <i
@@ -240,7 +236,7 @@
         </a>
         <a
           class="menu-link"
-          href="https://preview.keenthemes.com/metronic8/vue/docs/#/changelog"
+          href="#"
         >
           <span class="menu-icon">
             <i
@@ -262,7 +258,7 @@
         </a>
         <a
           class="menu-link"
-          href="https://preview.keenthemes.com/metronic8/vue/docs/#/changelog"
+          href="#"
         >
           <span class="menu-icon">
             <i
@@ -284,7 +280,7 @@
         </a>
         <a
           class="menu-link"
-          href="https://preview.keenthemes.com/metronic8/vue/docs/#/changelog"
+          href="#"
         >
           <span class="menu-icon">
             <i
@@ -306,7 +302,7 @@
         </a>
         <a
           class="menu-link"
-          href="https://preview.keenthemes.com/metronic8/vue/docs/#/changelog"
+          href="#"
         >
           <span class="menu-icon">
             <i
@@ -328,7 +324,7 @@
         </a>
         <a
           class="menu-link"
-          href="https://preview.keenthemes.com/metronic8/vue/docs/#/changelog"
+          href="#"
         >
           <span class="menu-icon">
             <i
@@ -350,7 +346,7 @@
         </a>
         <a
           class="menu-link"
-          href="https://preview.keenthemes.com/metronic8/vue/docs/#/changelog"
+          href="#"
         >
           <span class="menu-icon">
             <i
@@ -372,7 +368,7 @@
         </a>
         <a
           class="menu-link"
-          href="https://preview.keenthemes.com/metronic8/vue/docs/#/changelog"
+          href="#"
         >
           <span class="menu-icon">
             <i
@@ -394,7 +390,7 @@
         </a>
         <a
           class="menu-link"
-          href="https://preview.keenthemes.com/metronic8/vue/docs/#/changelog"
+          href="#"
         >
           <span class="menu-icon">
             <i
@@ -416,7 +412,7 @@
         </a>
         <a
           class="menu-link"
-          href="https://preview.keenthemes.com/metronic8/vue/docs/#/changelog"
+          href="#"
         >
           <span class="menu-icon">
             <i

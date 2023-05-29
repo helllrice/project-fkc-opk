@@ -23,11 +23,7 @@
               'container-xxl': !contentWidthFluid,
             }"
           >
-            <router-view />
-          </div>
-        </div>
-
-        <div class="table-container" style="padding: 20px">
+          <div class="table-container" style="padding: 20px">
           <table class="table m-auto table-row-dashed table-borderless table-row-gray-300 gy-2 gx-4 mb-9">
             <thead>
             <tr class="fw-bolder fs-9 border-gray-800 text-gray-800">
@@ -189,6 +185,11 @@
             </div>
           </div>
         </div>
+            <router-view />
+          </div>
+        </div>
+
+       
 
         <!-- end:: Content Body -->
       </div>
