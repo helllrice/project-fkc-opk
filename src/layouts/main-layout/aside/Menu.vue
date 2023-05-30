@@ -71,9 +71,7 @@
               v-else-if="asideMenuIcons === 'svg'"
               class="svg-icon svg-icon-2"
             >
-              <inline-svg
-                :src="getAssetPath('media/icons/duotune/general/gen005.svg')"
-              />
+            <i class="fa-solid fa-bars-progress"></i>
             </span>
           </span>
           <span class="menu-title"
@@ -93,9 +91,7 @@
               v-else-if="asideMenuIcons === 'svg'"
               class="svg-icon svg-icon-2"
             >
-              <inline-svg
-                :src="getAssetPath('media/icons/duotune/general/gen005.svg')"
-              />
+            <i class="fa-solid fa-file"></i>
             </span>
           </span>
           <span class="menu-title"
@@ -115,9 +111,7 @@
               v-else-if="asideMenuIcons === 'svg'"
               class="svg-icon svg-icon-2"
             >
-              <inline-svg
-                :src="getAssetPath('media/icons/duotune/general/gen005.svg')"
-              />
+            <i class="fa-solid fa-sitemap"></i>
             </span>
           </span>
           <span class="menu-title"
@@ -137,9 +131,7 @@
               v-else-if="asideMenuIcons === 'svg'"
               class="svg-icon svg-icon-2"
             >
-              <inline-svg
-                :src="getAssetPath('media/icons/duotune/general/gen005.svg')"
-              />
+            <i class="fa-solid fa-diamond"></i>
             </span>
           </span>
           <span class="menu-title  menu-sub-accordion"
@@ -159,9 +151,7 @@
               v-else-if="asideMenuIcons === 'svg'"
               class="svg-icon svg-icon-2"
             >
-              <inline-svg
-                :src="getAssetPath('media/icons/duotune/general/gen005.svg')"
-              />
+            <i class="fa-solid fa-landmark"></i>
             </span>
           </span>
           <span class="menu-title"
@@ -181,9 +171,7 @@
               v-else-if="asideMenuIcons === 'svg'"
               class="svg-icon svg-icon-2"
             >
-              <inline-svg
-                :src="getAssetPath('media/icons/duotune/general/gen005.svg')"
-              />
+            <i class="fa-sharp fa-solid fa-school"></i>
             </span>
           </span>
           <span class="menu-title"
@@ -203,9 +191,7 @@
               v-else-if="asideMenuIcons === 'svg'"
               class="svg-icon svg-icon-2"
             >
-              <inline-svg
-                :src="getAssetPath('media/icons/duotune/general/gen005.svg')"
-              />
+            <i class="fa-solid fa-landmark"></i>
             </span>
           </span>
           <span class="menu-title"
@@ -225,9 +211,7 @@
               v-else-if="asideMenuIcons === 'svg'"
               class="svg-icon svg-icon-2"
             >
-              <inline-svg
-                :src="getAssetPath('media/icons/duotune/general/gen005.svg')"
-              />
+            <i class="fa-solid fa-user-gear"></i>
             </span>
           </span>
           <span class="menu-title"
@@ -247,9 +231,7 @@
               v-else-if="asideMenuIcons === 'svg'"
               class="svg-icon svg-icon-2"
             >
-              <inline-svg
-                :src="getAssetPath('media/icons/duotune/general/gen005.svg')"
-              />
+            <i class="fa-solid fa-layer-group"></i>
             </span>
           </span>
           <span class="menu-title"
@@ -269,9 +251,7 @@
               v-else-if="asideMenuIcons === 'svg'"
               class="svg-icon svg-icon-2"
             >
-              <inline-svg
-                :src="getAssetPath('media/icons/duotune/general/gen005.svg')"
-              />
+            <i class="fa-solid fa-signature"></i>
             </span>
           </span>
           <span class="menu-title"
@@ -291,9 +271,7 @@
               v-else-if="asideMenuIcons === 'svg'"
               class="svg-icon svg-icon-2"
             >
-              <inline-svg
-                :src="getAssetPath('media/icons/duotune/general/gen005.svg')"
-              />
+            <i class="fa-solid fa-users"></i>
             </span>
           </span>
           <span class="menu-title"
@@ -313,9 +291,7 @@
               v-else-if="asideMenuIcons === 'svg'"
               class="svg-icon svg-icon-2"
             >
-              <inline-svg
-                :src="getAssetPath('media/icons/duotune/general/gen005.svg')"
-              />
+            <i class="fa-solid fa-user-graduate"></i>
             </span>
           </span>
           <span class="menu-title"
@@ -357,9 +333,7 @@
               v-else-if="asideMenuIcons === 'svg'"
               class="svg-icon svg-icon-2"
             >
-              <inline-svg
-                :src="getAssetPath('media/icons/duotune/general/gen005.svg')"
-              />
+            <i class="fa-solid fa-user-check"></i>
             </span>
           </span>
           <span class="menu-title"
@@ -379,9 +353,7 @@
               v-else-if="asideMenuIcons === 'svg'"
               class="svg-icon svg-icon-2"
             >
-              <inline-svg
-                :src="getAssetPath('media/icons/duotune/general/gen005.svg')"
-              />
+            <i class="fa-solid fa-calendar-days"></i>
             </span>
           </span>
           <span class="menu-title"
@@ -401,9 +373,7 @@
               v-else-if="asideMenuIcons === 'svg'"
               class="svg-icon svg-icon-2"
             >
-              <inline-svg
-                :src="getAssetPath('media/icons/duotune/general/gen005.svg')"
-              />
+            <i class="fa-solid fa-envelope"></i>
             </span>
           </span>
           <span class="menu-title"
@@ -423,9 +393,7 @@
               v-else-if="asideMenuIcons === 'svg'"
               class="svg-icon svg-icon-2"
             >
-              <inline-svg
-                :src="getAssetPath('media/icons/duotune/general/gen005.svg')"
-              />
+            <i class="fa-solid fa-code-compare"></i>
             </span>
           </span>
           <span class="menu-title"
